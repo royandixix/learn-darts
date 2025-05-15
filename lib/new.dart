@@ -92,6 +92,7 @@ class ProductBox extends StatelessWidget {
                   return Container(
                     width: 120,
                     height: 120,
+                    
                     decoration: BoxDecoration(
                       color: Colors.grey.shade300,
                       borderRadius: BorderRadius.circular(10),
